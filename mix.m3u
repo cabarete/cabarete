@@ -29,7 +29,7 @@ http://plpro.org/stream/playlist/EventosMulti4/7/720p.m3u8
 http://plpro.org/stream/playlist/EventosMulti5/7/720p.m3u8
 #EXTINF:-1,EVENTO2
 http://plpro.org/stream/playlist/EventosMulti6/7/720p.m3u8
-#EXTINF:-1,,EVENTO3
+#EXTINF:-1,EVENTO3
 http://plpro.org/stream/playlist/EventosMulti7/7/720p.m3u8
 #EXTINF:-1,EVENTO4
 http://plpro.org/stream/playlist/EventosMulti8/7/720p.m3u8
