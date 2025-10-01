@@ -1,2 +1,45 @@
-
-
+#EXTM3U
+#EXTINF:-1 group-title="Spain",24 horas
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 group-title="Spain",UNIVISION 24
+https://linear-254.frequency.stream:443/mt/studio/254/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 group-title="Spain",TELEMUNDO 51 MIAMI
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+#EXTINF:-1 group-title="Spain",TELEMUNDO ORLANDO
+https://amg00884-nbcuniversal-nbctelemundoflorida-xumo-atn0m.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Spain",Telemundo Accion
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 group-title="Spain", MLB
+http://estenofuncionaparanada.xyz:2052/live/Diegor/PNx4hm83kfvW/187078.m3u8
+#EXTINF:-1 group-title="Spain",
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 group-title="Spain",CDN noticia
+http://vipgerretger.top:8080/VIP01710172310403892/96c93cb49a72/25048
+#EXTINF:-1 group-title="Spain",CDN3 
+http://estenofuncionaparanada.xyz:2052/live/Diegor/PNx4hm83kfvW/118270.m3u8
+#EXTINF:-1 group-title="Spain",CDN 37 RD
+http://estenofuncionaparanada.xyz:2052/live/Diegor/PNx4hm83kfvW/189471.m3u8
+#EXTINF:-1 group-title="Spain",TUDN Usa
+http://200.115.120.1:8000/play/ca039/index.m3u8
+#EXTINF:-1 group-title="Spain",TELEMUNDO ORLANDO 3
+https://micaplay.net:8443/play/m1miDNCZQ8pFpczEqOMCd81QQ-f7eHoii1Vt8MrZ01fos7He3jRAi5OBr92V5P97/ts
+#EXTINF:-1 group-title="Spain",TELEMUNDO FLORIDA
+https://amg00884-nbcuniversal-nbctelemundoflorida-xumo-atn0m.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Spain",TELEMUNDO ORLANDO 2
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+#EXTINF:-1 group-title="Spain",UNIVISION 24
+https://linear-254.frequency.stream:443/mt/studio/254/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 group-title="Spain",24 horas
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 group-title="Spain",La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 group-title="TV ABIERTA",HISTORY
+https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="TV ABIERTA", HISTORY2 
+https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="TV ABIERTA",NAT GEO
+https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
+#EXTINF:-1 group-title="TV ABIERTA",DISCOVERY
+https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
+#EXTINF:-1 group-title="esport",Eleven Sports 1
+http://89.65.227.181:8001/1:0:1:13f3:5dc:13e:820000:0:0:0
