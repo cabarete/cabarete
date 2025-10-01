@@ -6,8 +6,6 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1,TELEMUNDO ORLANDO
 https://amg00884-nbcuniversal-nbctelemundoflorida-xumo-atn0m.amagi.tv/playlist.m3u8
 #EXTINF:-1,24 horas
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1,LA 1
 https://ztnr.rtve.es/ztnr/1688879.m3u8
 #EXTINF:-1,LA 2
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
@@ -31,7 +29,7 @@ http://plpro.org/stream/playlist/EventosMulti4/7/720p.m3u8
 http://plpro.org/stream/playlist/EventosMulti5/7/720p.m3u8
 #EXTINF:-1,EVENTO2
 http://plpro.org/stream/playlist/EventosMulti6/7/720p.m3u8
-#EXTINF:-1,EVENTO3
+#EXTINF:-1,,EVENTO3
 http://plpro.org/stream/playlist/EventosMulti7/7/720p.m3u8
 #EXTINF:-1,EVENTO4
 http://plpro.org/stream/playlist/EventosMulti8/7/720p.m3u8
@@ -47,19 +45,19 @@ http://plpro.org/stream/playlist/EventosMulti13/7/720p.m3u8
 http://plpro.org/stream/playlist/EventosMulti15/7/720p.m3u8
 #EXTINF:-1,EVENTO16
 http://plpro.org/stream/playlist/EventosMulti16/7/720p.m3u8
-#EXTINF:-1,F CO | WIN SPORTS
+#EXTINF:-1,WIN SPORTS
 http://195.66.210.10:80/DiegoMolina/E2XLaGCn7X/516932
-#EXTINF:-1,F CO | WIN SPORTS +
+#EXTINF:-1,WIN SPORTS +
 http://195.66.210.10:80/DiegoMolina/E2XLaGCn7X/516931
-#EXTINF:-1,F CO | WIN SPORTS + FHD
+#EXTINF:-1,WIN SPORTS + FHD
 http://195.66.210.10:80/DiegoMolina/E2XLaGCn7X/516934
-#EXTINF:-1,F CO | WIN SPORTS + HD
+#EXTINF:-1,WIN SPORTS + HD
 http://195.66.210.10:80/DiegoMolina/E2XLaGCn7X/516935
-#EXTINF:-1,F CO | WIN SPORTS + HD OP 1
+#EXTINF:-1,WIN SPORTS + HD OP 1
 http://195.66.210.10:80/DiegoMolina/E2XLaGCn7X/516929
-#EXTINF:-1,F CO | WIN SPORTS + VIP 1
+#EXTINF:-1,WIN SPORTS + VIP 1
 http://195.66.210.10:80/DiegoMolina/E2XLaGCn7X/516921
-#EXTINF:-1,F CO | WIN SPORTS OP 1
+#EXTINF:-1,WIN SPORTS OP 1
 http://195.66.210.10:80/DiegoMolina/E2XLaGCn7X/485515
 #EXTINF:-1 group-title="TV DOCUMENTALES",HISTORY
 https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
@@ -69,5 +67,5 @@ https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8
 https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
 #EXTINF:-1 group-title="TV DOCUMENTALES",DISCOVERY
 https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
-#EXTINF:-1 group-title="bromas",just for laughs
+#EXTINF:-1,just for laughs
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
